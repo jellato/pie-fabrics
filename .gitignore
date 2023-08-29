@@ -1,0 +1,8 @@
+node_modules
+nbproject
+build
+bower_components
+npm-debug.log
+TODO.txt
+package-lock.json
+.vscode

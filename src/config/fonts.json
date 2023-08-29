@@ -1,0 +1,24 @@
+{
+  "handwriting": {
+    "caption": "handwriting",
+    "items": [
+      {
+        "caption": "Lemon Tuesday",
+        "file": "Lemon_Tuesday.otf"
+      }
+    ]
+  },
+  "serif": {
+    "caption": "serif",
+    "items": [
+      {
+        "caption": "Inglobal",
+        "file": "Inglobal.ttf"
+      },
+      {
+        "caption": "PT Mono Regular",
+        "file": "PT_Mono_Regular.ttf"
+      }
+    ]
+  }
+}

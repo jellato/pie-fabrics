@@ -1,0 +1,342 @@
+{
+  "hats": {
+    "caption": "hats",
+    "items": [
+      {
+        "caption": "alien",
+        "file": "alien.svg"
+      },
+      {
+        "caption": "beard",
+        "file": "beard.svg"
+      },
+      {
+        "caption": "bow",
+        "file": "bow.svg"
+      },
+      {
+        "caption": "brows and glasses",
+        "file": "brows_and_glasses.svg"
+      },
+      {
+        "caption": "builder",
+        "file": "builder.svg"
+      },
+      {
+        "caption": "cape",
+        "file": "cape.svg"
+      },
+      {
+        "caption": "cat woman",
+        "file": "cat_woman.svg"
+      },
+      {
+        "caption": "cinema glasses",
+        "file": "cinema_glasses.svg"
+      },
+      {
+        "caption": "corsair",
+        "file": "corsair.svg"
+      },
+      {
+        "caption": "crown",
+        "file": "crown.svg"
+      },
+      {
+        "caption": "hearts",
+        "file": "hearts.svg"
+      },
+      {
+        "caption": "horns",
+        "file": "horns.svg"
+      },
+      {
+        "caption": "indian",
+        "file": "indian.svg"
+      },
+      {
+        "caption": "joker",
+        "file": "joker.svg"
+      },
+      {
+        "caption": "mouth",
+        "file": "mouth.svg"
+      },
+      {
+        "caption": "pirate",
+        "file": "pirate.svg"
+      },
+      {
+        "caption": "playboy",
+        "file": "playboy.svg"
+      },
+      {
+        "caption": "pokemon",
+        "file": "pokemon.svg"
+      },
+      {
+        "caption": "princess",
+        "file": "princess.svg"
+      },
+      {
+        "caption": "sleeping",
+        "file": "sleeping.svg"
+      },
+      {
+        "caption": "sombrero",
+        "file": "sombrero.svg"
+      },
+      {
+        "caption": "star",
+        "file": "star.svg"
+      },
+      {
+        "caption": "swimming mask",
+        "file": "swimming_mask.svg"
+      },
+      {
+        "caption": "viking",
+        "file": "viking.svg"
+      },
+      {
+        "caption": "wonder woman",
+        "file": "wonder_woman.svg"
+      }
+    ]
+  },
+  "smiles-1": {
+    "caption": "smiles-1",
+    "items": [
+      {
+        "caption": "angry",
+        "file": "angry.svg"
+      },
+      {
+        "caption": "cry",
+        "file": "cry.svg"
+      },
+      {
+        "caption": "dead",
+        "file": "dead.svg"
+      },
+      {
+        "caption": "embarrass",
+        "file": "embarrass.svg"
+      },
+      {
+        "caption": "happy",
+        "file": "happy.svg"
+      },
+      {
+        "caption": "joy",
+        "file": "joy.svg"
+      },
+      {
+        "caption": "love",
+        "file": "love.svg"
+      },
+      {
+        "caption": "sad",
+        "file": "sad.svg"
+      },
+      {
+        "caption": "shy",
+        "file": "shy.svg"
+      },
+      {
+        "caption": "sleepy",
+        "file": "sleepy.svg"
+      },
+      {
+        "caption": "surprise",
+        "file": "surprise.svg"
+      },
+      {
+        "caption": "wink",
+        "file": "wink.svg"
+      }
+    ]
+  },
+  "smiles-2": {
+    "caption": "smiles-2",
+    "items": [
+      {
+        "caption": "alien",
+        "file": "alien.svg"
+      },
+      {
+        "caption": "angel",
+        "file": "angel.svg"
+      },
+      {
+        "caption": "angry",
+        "file": "angry.svg"
+      },
+      {
+        "caption": "blushing",
+        "file": "blushing.svg"
+      },
+      {
+        "caption": "bored",
+        "file": "bored.svg"
+      },
+      {
+        "caption": "boss",
+        "file": "boss.svg"
+      },
+      {
+        "caption": "crying",
+        "file": "crying.svg"
+      },
+      {
+        "caption": "cute",
+        "file": "cute.svg"
+      },
+      {
+        "caption": "dead",
+        "file": "dead.svg"
+      },
+      {
+        "caption": "devil",
+        "file": "devil.svg"
+      },
+      {
+        "caption": "disappointed",
+        "file": "disappointed.svg"
+      },
+      {
+        "caption": "drunk",
+        "file": "drunk.svg"
+      },
+      {
+        "caption": "face mem",
+        "file": "face_mem.svg"
+      },
+      {
+        "caption": "funny",
+        "file": "funny.svg"
+      },
+      {
+        "caption": "fuuu",
+        "file": "fuuu.svg"
+      },
+      {
+        "caption": "glasses",
+        "file": "glasses.svg"
+      },
+      {
+        "caption": "halloween",
+        "file": "halloween.svg"
+      },
+      {
+        "caption": "happy",
+        "file": "happy.svg"
+      },
+      {
+        "caption": "in love",
+        "file": "in_love.svg"
+      },
+      {
+        "caption": "laugh",
+        "file": "laugh.svg"
+      },
+      {
+        "caption": "lol mem",
+        "file": "lol_mem.svg"
+      },
+      {
+        "caption": "ninja",
+        "file": "ninja.svg"
+      },
+      {
+        "caption": "shocked",
+        "file": "shocked.svg"
+      },
+      {
+        "caption": "sick",
+        "file": "sick.svg"
+      },
+      {
+        "caption": "sleepy",
+        "file": "sleepy.svg"
+      }
+    ]
+  },
+  "words": {
+    "caption": "words",
+    "items": [
+      {
+        "caption": "404",
+        "file": "404.svg"
+      },
+      {
+        "caption": "arrow",
+        "file": "arrow.svg"
+      },
+      {
+        "caption": "babe",
+        "file": "babe.svg"
+      },
+      {
+        "caption": "chic",
+        "file": "chic.svg"
+      },
+      {
+        "caption": "epic",
+        "file": "epic.svg"
+      },
+      {
+        "caption": "heart",
+        "file": "heart.svg"
+      },
+      {
+        "caption": "hot",
+        "file": "hot.svg"
+      },
+      {
+        "caption": "kiss",
+        "file": "kiss.svg"
+      },
+      {
+        "caption": "lit",
+        "file": "lit.svg"
+      },
+      {
+        "caption": "lol",
+        "file": "lol.svg"
+      },
+      {
+        "caption": "love",
+        "file": "love.svg"
+      },
+      {
+        "caption": "me now",
+        "file": "me_now.svg"
+      },
+      {
+        "caption": "ok",
+        "file": "ok.svg"
+      },
+      {
+        "caption": "omg",
+        "file": "omg.svg"
+      },
+      {
+        "caption": "super",
+        "file": "super.svg"
+      },
+      {
+        "caption": "tip me",
+        "file": "tip_me.svg"
+      },
+      {
+        "caption": "wow",
+        "file": "wow.svg"
+      },
+      {
+        "caption": "wtf",
+        "file": "wtf.svg"
+      }
+    ]
+  }
+}
